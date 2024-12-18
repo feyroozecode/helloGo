@@ -5,6 +5,10 @@ import (
 	"reflect"
 )
 
+
+/// docs
+// A slice is a reference to a contiguous segment of an array. 
+// It is a variable-length sequence which stores elements of a similar type.
 func main() {
 	languages := [9]string{"Python", "Java", "Go", "C", "C++", "C#", "JavaScript", "Ruby", "Rust"}
 
